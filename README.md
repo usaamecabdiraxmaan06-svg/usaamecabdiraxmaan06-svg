@@ -113,17 +113,17 @@ A personal portfolio website showcasing my skills, projects, experience, and cre
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/usaame-cabdiraxmaan-2657ba42a)">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="Usaamecabdiraxmaan752@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_WHATSAPP_URL">
+<a href="(https://wa.me/252636011752)">
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" />
 </a>
 
